@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cordova-sms/cordova-sms-plugin.git"
+    "url": "git+https://github.com/aqdas95/cordova-sms-plugin.git"
   },
   "keywords": [
     "cordova",
@@ -34,7 +34,7 @@
   "author": "Didier Baquier",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cordova-sms/cordova-sms-plugin/issues"
+    "url": "https://github.com/aqdas95/cordova-sms-plugin/issues"
   },
-  "homepage": "https://github.com/cordova-sms/cordova-sms-plugin#readme"
+  "homepage": "https://github.com/aqdas95/cordova-sms-plugin#readme"
 }
